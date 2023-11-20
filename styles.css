@@ -22,6 +22,10 @@ body {
 .latest-news-section h2 {
   margin-bottom: 10px;
 }
+.latest-news-section p {
+  list-style: none;
+  padding: 0;
+}
 
 .latest-news-section ul {
   list-style: none;
